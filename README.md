@@ -7,5 +7,8 @@
 
 This is the repository for my current gaming/dev workstation. After many years without having built my own PC. 
 I decided it was time to build a new system to satisfy my gaming needs and my recently discovered scripting needs.  
-Please take a look at the 'babalao' markdown file to inspect hardware specs.  
-Feel free to comment or ask any questions in regards.  
+Please take a look at the 'babalao' markdown file to inspect hardware specs.   
+
+Here is a picture of my PC build: ['babalao'](/img/babalao.jpg)  
+
+Feel free to comment or ask any questions in regards. 
